@@ -84,9 +84,14 @@ Layer 4: 分流本國人與外國人，本國人及外國人皆有多個海關�
   - traceroute
 
 
+
 Ref: 
+
 https://blog.envoyproxy.io/introduction-to-modern-network-load-balancing-and-proxying-a57f6ff80236
+
 https://www.f5.com/company/blog/top-five-scalability-patterns
+
 https://blog.vivekpanyam.com/scaling-a-web-service-load-balancing/
+
 https://www.youtube.com/watch?v=MKgJeqF1DHw
 
